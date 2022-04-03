@@ -21,7 +21,7 @@ class Solution {
         int currentValue = 0;
         int result = 0;
         
-        //store symobles into map
+        //store symobles into hashMap
         Map<Character, Integer> symboles = new HashMap<>();
         symboles.put('I', 1);
         symboles.put('V', 5);
